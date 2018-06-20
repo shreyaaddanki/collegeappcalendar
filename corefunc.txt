@@ -1,0 +1,5 @@
+- users can create an account
+- users can retrieve passwords
+- users can change passwords
+- users can add data from colleges
+- the data from colleges will import onto the calendar
